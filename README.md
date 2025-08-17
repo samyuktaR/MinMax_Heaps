@@ -1,2 +1,2 @@
 # MinMax_Heaps
-This is the header file for implementing a min and max heap. The heap has 2 major functions - Adding elements, and removing the highest priority element from the heap. Both the heaps have been implemented using a template.
+Templated implementation of Min Heap and Max Heap data structures in C++. Provides core operations including insertion and removal of the highest-priority element, with reusable and efficient design for generic data types.
